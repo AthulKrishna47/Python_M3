@@ -33,3 +33,4 @@ print(f"Final word after removing character is \"{remove(s,n)}\"")
 <img width="764" height="100" alt="image" src="https://github.com/user-attachments/assets/70a55f72-7b1c-44cc-940f-dd79e9529540" />
 
 ## Result
+Thus the program has been executed successfully
