@@ -32,3 +32,4 @@ print(f"Final list {l1}")
 <img width="328" height="40" alt="image" src="https://github.com/user-attachments/assets/4d925ffc-86f6-498f-acfa-ef7ba5cf61f0" />
 
 ## Result
+Thus the program has been executed successfully
