@@ -20,3 +20,4 @@ print(f"Sum of the list {l} is {s}")
 <img width="631" height="38" alt="image" src="https://github.com/user-attachments/assets/8fbf7eea-89ea-40b3-81c9-e7dbad208824" />
 
 ## Result
+Thus the program has been executed successfully
